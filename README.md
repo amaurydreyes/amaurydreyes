@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/amaurydreyes/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/amaurydreyes/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/amaurydreyes/configure-ad)
+  - [Ceating an Azure Account and Launching Virtual Machines](https://github.com/amaurydreyes/creating-azure-virtual-machine)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/amaurydreyes/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
